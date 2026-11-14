@@ -1,0 +1,6 @@
+{
+  "appId": "com.noteforge.pro",
+  "appName": "NoteForge Pro",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
